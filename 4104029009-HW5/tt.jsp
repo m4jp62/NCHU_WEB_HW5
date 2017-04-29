@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <%@ page pageEncoding="UTF-8"%>
 <html>
     <head>
         <meta charset="utf-8">
-            <title>BMI Result</title>
+            <title>RESUME</title>
             <%request.setCharacterEncoding("UTF-8");%>
             <style media="screen">
             table{
